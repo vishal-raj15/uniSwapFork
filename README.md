@@ -9,7 +9,7 @@ testing swap and liquidity functions of uniswap v2 fork
 
 > `npx hardaht node`  
 
-> in another terminal  
+> in another terminal
 > `npx hardhat deploy --network localhost
 
 > test  
