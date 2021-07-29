@@ -92,9 +92,7 @@ module.exports = {
     },
     // rinkeby: {
     //   url: "https://rinkeby.infura.io/v3/460f40a260564ac4a4f4b3fffb032dad", // <---- YOUR INFURA ID! (or it won't work)
-    //   accounts: {
-    //     mnemonic: mnemonic(),
-    //   },
+    //   accounts: [`0xbf01e7130995eff0b2c27f9b8649f0f45b62eb7e87c8a5b60db51afd31ce8601`]
     // },
     // kovan: {
     //   url: "https://kovan.infura.io/v3/460f40a260564ac4a4f4b3fffb032dad", // <---- YOUR INFURA ID! (or it won't work)
@@ -110,9 +108,8 @@ module.exports = {
     // },
     // ropsten: {
     //   url: "https://ropsten.infura.io/v3/460f40a260564ac4a4f4b3fffb032dad", // <---- YOUR INFURA ID! (or it won't work)
-    //   accounts: {
-    //     mnemonic: mnemonic(),
-    //   },
+    //   accounts: [`0xbf01e7130995eff0b2c27f9b8649f0f45b62eb7e87c8a5b60db51afd31ce8601`]
+
     // },
     // goerli: {
     //   url: "https://goerli.infura.io/v3/460f40a260564ac4a4f4b3fffb032dad", // <---- YOUR INFURA ID! (or it won't work)
